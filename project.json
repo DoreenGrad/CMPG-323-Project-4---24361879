@@ -16,6 +16,7 @@
   "studioVersion": "22.10.2.0",
   "projectVersion": "1.0.1",
   "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
     "isPausable": true,
